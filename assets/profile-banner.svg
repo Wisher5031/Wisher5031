@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080808"/><stop offset=".55" stop-color="#190609"/><stop offset="1" stop-color="#050505"/></linearGradient>
+ <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff334f"/><stop offset="1" stop-color="#8b0018"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<g fill="none" stroke="#ff2445" opacity=".22"><path d="M0 280 360 0M100 360 460 0M740 360 1100 0M900 360 1200 60" stroke-width="2"/><circle cx="1000" cy="180" r="125" stroke-width="1"/><circle cx="1000" cy="180" r="95" stroke-width="1"/></g>
+<path d="M0 300H1200" stroke="#ff2445" opacity=".45"/>
+<g filter="url(#glow)"><path d="M850 70 1040 180 850 290 910 180Z" fill="url(#red)" opacity=".75"/><path d="M930 95 1080 180 930 265" fill="none" stroke="#ff6678" stroke-width="4"/></g>
+<text x="82" y="142" fill="#ff294b" font-family="Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="8">WELCOME TO MY PROFILE</text>
+<text x="78" y="218" fill="#fff" font-family="Arial,sans-serif" font-size="64" font-weight="900" letter-spacing="2">SIVARAJ <tspan fill="#ff294b">M.</tspan></text>
+<text x="84" y="265" fill="#c8c8c8" font-family="Arial,sans-serif" font-size="21" letter-spacing="3">DEVELOPER  •  BUILDER  •  ANIME ENTHUSIAST</text>
+<rect x="82" y="292" width="250" height="4" rx="2" fill="#ff294b"/>
+</svg>
