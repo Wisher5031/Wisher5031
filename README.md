@@ -11,10 +11,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/PROFILE-RED%20%7C%20BLACK-ff294b?style=for-the-badge&labelColor=101010" />
-<img src="https://img.shields.io/badge/FOCUS-CREATIVITY-ff294b?style=for-the-badge&labelColor=101010" />
-<img src="https://komarev.com/ghpvc/?username=Wisher5031&style=for-the-badge&color=8b0018&label=PROFILE+VIEWS" />
-
 </div>
 
 ---
